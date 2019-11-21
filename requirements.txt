@@ -1,0 +1,5 @@
+pandas
+console-menu
+configparser
+future
+enum34
